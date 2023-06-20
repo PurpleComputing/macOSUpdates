@@ -6,7 +6,7 @@
 		<array>
 			<dict>
 				<key>json-url</key>
-				<string>https://raw.githubusercontent.com/PurpleComputing/macOSUpdates/Config-JSONs/com.github.macadmins.Nudge.json</string>
+				<string>https://raw.githubusercontent.com/PurpleComputing/macOSUpdates/main/Config-JSONs/com.github.macadmins.Nudge.json</string>
 				<key>PayloadDisplayName</key>
 				<string>Nudge - Web Based Configuration</string>
 				<key>PayloadIdentifier</key>
