@@ -16,7 +16,7 @@
           "aboutUpdateURL": "https://support.apple.com/en-us/HT213268"
         }
       ],
-      "requiredInstallationDate": "2023-06-20T00:00:01Z",
+      "requiredInstallationDate": "2023-06-25T00:00:01Z",
       "requiredMinimumOSVersion": "13.4.1",
       "targetedOSVersionsRule": "default"
     }
@@ -24,8 +24,8 @@
   "userExperience": {
     "allowedDeferrals": 50,
     "allowedDeferralsUntilForcedSecondaryQuitButton": 0,
-    "approachingRefreshCycle": 60,
-    "approachingWindowTime": 6,
+    "approachingRefreshCycle": 6000,
+    "approachingWindowTime": 72,
     "elapsedRefreshCycle": 60,
     "initialRefreshCycle": 60,
     "maxRandomDelayInSeconds": 60,
@@ -52,7 +52,7 @@
         "mainContentHeader": "Your device will restart during this update",
         "mainContentNote": "Important Notes",
         "mainContentSubHeader": "Updates can take around 10-15 minutes to complete.",
-        "mainContentText": "A fully up-to-date device is required to ensure that our team at Purple Computing can protect your company data.\n\nIf you do not update by the due date, you will effectively be locked out of your system until you complete the update.\n\n To begin the update, simply click on the Update Device button and follow the prompts.\n\nFor more information, hit *More Info* in the bottom left corner of this window.",
+        "mainContentText": "A fully up-to-date device is required to ensure that our team at Purple Computing can protect your company data.\n\nIf you do not update by the due date, you will effectively be locked out of your system until you complete the update.\n\nTo begin the update, simply click on the Update Device button and follow the prompts.\n\nFor more information, hit *More Info* in the bottom left corner of this window.",
         "mainHeader": "Your device requires a macOS Security Update",
         "primaryQuitButtonText": "Later",
         "secondaryQuitButtonText": "I understand",
