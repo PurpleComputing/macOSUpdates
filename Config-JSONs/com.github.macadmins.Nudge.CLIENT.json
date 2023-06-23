@@ -27,7 +27,7 @@
     "approachingRefreshCycle": 6000,
     "approachingWindowTime": 72,
     "elapsedRefreshCycle": 300,
-    "initialRefreshCycle": 1,
+    "initialRefreshCycle": 1800,
     "maxRandomDelayInSeconds": 1200,
     "noTimers": false,
     "nudgeRefreshCycle": 60,
