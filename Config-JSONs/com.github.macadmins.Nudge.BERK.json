@@ -22,15 +22,15 @@
     }
   ],
   "userExperience": {
-    "allowedDeferrals": 100,
+    "allowedDeferrals": 50,
     "allowedDeferralsUntilForcedSecondaryQuitButton": 0,
-    "approachingRefreshCycle": 6000,
-    "approachingWindowTime": 120,
-    "elapsedRefreshCycle": 300,
-    "initialRefreshCycle": 18000,
-    "maxRandomDelayInSeconds": 1200,
+    "approachingRefreshCycle": 60,
+    "approachingWindowTime": 6,
+    "elapsedRefreshCycle": 60,
+    "initialRefreshCycle": 60,
+    "maxRandomDelayInSeconds": 60,
     "noTimers": false,
-    "nudgeRefreshCycle": 1,
+    "nudgeRefreshCycle": 60,
     "randomDelay": false
   },
   "userInterface": {
