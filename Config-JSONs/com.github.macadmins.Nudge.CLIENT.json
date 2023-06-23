@@ -26,7 +26,7 @@
     "allowedDeferralsUntilForcedSecondaryQuitButton": 0,
     "approachingRefreshCycle": 6000,
     "approachingWindowTime": 72,
-    "elapsedRefreshCycle": 60,
+    "elapsedRefreshCycle": 300,
     "initialRefreshCycle": 60,
     "maxRandomDelayInSeconds": 60,
     "noTimers": false,
