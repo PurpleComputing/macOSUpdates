@@ -5,8 +5,8 @@
     "aggressiveUserExperience": true,
     "aggressiveUserFullScreenExperience": true,
     "asynchronousSoftwareUpdate": true,
-    "attemptToFetchMajorUpgrade": false,
-    "enforceMinorUpdates": true
+    "attemptToFetchMajorUpgrade": true,
+    "enforceMinorUpdates": false
   },
   "osVersionRequirements": [
     {
