@@ -5,8 +5,8 @@
     "aggressiveUserExperience": true,
     "aggressiveUserFullScreenExperience": true,
     "asynchronousSoftwareUpdate": true,
-    "attemptToFetchMajorUpgrade": true,
-    "enforceMinorUpdates": false
+    "attemptToFetchMajorUpgrade": false,
+    "enforceMinorUpdates": true
   },
   "osVersionRequirements": [
     {
@@ -17,7 +17,7 @@
         }
       ],
       "requiredInstallationDate": "2023-07-17T00:00:01Z",
-      "requiredMinimumOSVersion": "12.6.7",
+      "requiredMinimumOSVersion": "13.4.1",
       "targetedOSVersionsRule": "default"
     }
   ],
