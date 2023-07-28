@@ -22,7 +22,7 @@
     }
   ],
   "userExperience": {
-    "allowedDeferrals": 50,
+    "allowedDeferrals": 100,
     "allowedDeferralsUntilForcedSecondaryQuitButton": 0,
     "approachingRefreshCycle": 6000,
     "approachingWindowTime": 72,
